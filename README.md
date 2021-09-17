@@ -4,6 +4,10 @@
 
 WomenTechWomenYes (WTWY) is looking to efficiently place their street teams at NYC subway stations in order to build awareness through email collection prior to their upcoming gala. Using background research from the book *Invisible Women* by Caroline Criado Perez, our team focused on identifying stations with high ridership in close proximity to schools and daycares - areas that are commonly visited in women's urban travel patterns. Our team used MTA turnstile data and location data from stations, schools, and daycares to optimize the WTWY street team schedule. 
 
+To dig deeper into this project, please see:
+* The [Jupyter Notebook containing all project code](https://github.com/ninaksweeney/Metis_Project_1/blob/main/Project1_Notebook.ipynb) 
+* Final presentation [slides/visuals](https://github.com/ninaksweeney/Metis_Project_1/blob/main/Project1_Presentation.pdf)
+
 ## Design
 
 The main goals of WTWY are to build awareness among interested & passionate individuals, fill the upcoming gala, and potentially expose future donors to the cause. We made the decision to focus our efforts on reaching women first - a strategy that could potentially fulfill all three objectives - by ensuring that WTWY is present in women's typical 'trip-chaining' locations. **Trip-chaining**, which comes about as women complete 75% of the world's unpaid care work, is the tendency to do multiple errands in one trip or commute - like grocery shopping or dropping off children at school. By looking at both ridership numbers and proximity to schools and daycares, we allow WTWY to reach a diverse group of women where they already are throughout the week. 
