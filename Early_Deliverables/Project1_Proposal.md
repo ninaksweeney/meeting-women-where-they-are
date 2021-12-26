@@ -27,6 +27,7 @@ By targeting a wide array of women using the fairly universal gendered behavior 
 - [MTA Station Location Data](http://web.mta.info/developers/developer-data-terms.html#data) - at the given link, navigate to the MTA NYC Transit header, then 'Station Locations'. Latitude, Longitude, and Station Name will be used to anchor the turnstile data geographically in relation to other institutions. 
 - [2019-2020 School Location Data](https://data.cityofnewyork.us/Education/2019-2020-School-Locations/wg9x-4ke6) - Latitude & Longitude will be used to find the proximity of subway stations to NYC schools with students who are likely to be picked up by a parent. 
 - [Childcare Regulated Programs Data](https://data.ny.gov/Human-Services/Child-Care-Regulated-Programs-Map/s8uq-s4wq) - at the given link, click 'Export' in the top right corner. Latitude & Longitude will be used to find the proximity of subway stations to NYC childcare facilities where parents are likely to pick up children. 
+- [NYC Basemap](https://data.cityofnewyork.us/Housing-Development/Shapefiles-and-base-map/2k7f-6s2k) - basemap for plotting stations and facilities
 
 
 In this project, an individual unit of analysis will be a subway station, and turnstile data will be compiled to show the activity at a given station over the course of a day or a week. School & Childcare data will be used to show the proximity of our subway stations to typical 'trip-chaining' locations during a woman's commute. Features we plan to work with are: 
