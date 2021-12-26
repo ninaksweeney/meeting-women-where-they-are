@@ -1,4 +1,4 @@
-# Meeting NYC Women Where They Are: Exploratory Data Analysis Project 1  
+# Meeting NYC Women Where They Are: Optimizing Street Team Placement through Exploratory Data Analysis
 
 ## Abstract 
 
